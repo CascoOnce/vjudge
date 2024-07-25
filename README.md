@@ -1,2 +1,2 @@
-#VJudge
-Repositorio de vjudge
+# VJudge
+Respositorio creado para practicar ejercicios de la plataforma VJudge
